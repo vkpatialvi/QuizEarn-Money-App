@@ -1,0 +1,6 @@
+{
+  "name": "QuizEarn India",
+  "description": "Professional exam preparation, competitive quiz and knowledge reward platform for India with bilingual Hindi and English support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
